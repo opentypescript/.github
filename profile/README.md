@@ -1,5 +1,5 @@
 
-![Uploading Frame 7.png…]()
+![OpenTS](https://github.com/opentypescript/.github/assets/73933669/b61e2d95-8ef9-44f4-8bbf-4afb532618ec)
 
 
 ```Typescript
