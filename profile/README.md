@@ -1,5 +1,6 @@
 
-![OpenTS](https://github.com/opentypescript/.github/assets/73933669/b61e2d95-8ef9-44f4-8bbf-4afb532618ec)
+
+![Frame 7-3](https://github.com/opentypescript/.github/assets/73933669/f04b64a8-9907-4885-84e0-82341b05226e)
 
 
 ```Typescript
